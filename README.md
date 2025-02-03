@@ -1,4 +1,4 @@
-# **NDK Demo - Device Root Checker**
+# **NDK - Device Root Checker**
 
 This is a simple Android application developed using Kotlin and Jetpack Compose to check if the device is rooted or not. The app uses native C/C++ code via the Android NDK (Native Development Kit) to perform the root check.
 
